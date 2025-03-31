@@ -1,0 +1,6 @@
+importar  '@n8n/chat/style.css' ; 
+importar  {  createChat  }  de  '@n8n/chat' ;
+
+createChat ( { 
+	webhookUrl : 'https://gegov.app.n8n.cloud/webhook/09da125d-6ba4-47cc-8366-86b8b97274fc' 
+} ) ;
