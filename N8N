@@ -1,0 +1,8 @@
+< link  href =" https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css " rel =" folha de estilo " />
+ < script  type =" módulo " > 
+	importar  {  createChat  }  de  'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js' ;
+
+	createChat ( { 
+		webhookUrl : 'https://gegov.app.n8n.cloud/webhook/09da125d-6ba4-47cc-8366-86b8b97274fc' 
+	} ) ; 
+</ script >
